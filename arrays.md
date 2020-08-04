@@ -1,5 +1,6 @@
 ## Materiais a serem assistidos previamente
 [Gerando dados falsos para testes](https://www.youtube.com/watch?v=hmDcbsrmzF4)
+
 [GManipulando arrays](https://www.youtube.com/watch?v=MXmChiKN4Q4)
 
 
