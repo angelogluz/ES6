@@ -1,7 +1,9 @@
 ## Materiais a serem assistidos previamente
 [Gerando dados falsos para testes](https://www.youtube.com/watch?v=hmDcbsrmzF4)
 
-[GManipulando arrays](https://www.youtube.com/watch?v=MXmChiKN4Q4)
+[Arrow functions](https://www.youtube.com/watch?v=ihWA4tri1Fc)
+
+[Manipulando arrays](https://www.youtube.com/watch?v=MXmChiKN4Q4)
 
 
 ## Pré requisitos (Dependências)
