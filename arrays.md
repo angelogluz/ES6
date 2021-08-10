@@ -1,4 +1,4 @@
-## Materiais a serem assistidos previamente
+## Materiais de apoio
 [Gerando dados falsos para testes](https://www.youtube.com/watch?v=hmDcbsrmzF4)
 
 [Arrow functions](https://www.youtube.com/watch?v=ihWA4tri1Fc)
@@ -8,17 +8,13 @@
 
 ## Pré requisitos (Dependências)
 
-[ESLint](https://eslint.org/) - Code style AirBnB
-
-[Editor Config for VSCode](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-
 [Faker](https://github.com/marak/Faker.js/)
 
 ## Cenário
 
 Tratar o conteúdo de um array com 1.000 registros através de <code> map, filter, reduce e find </code> funções.
 
-Campos dos objetos objetos que irão compor o array: <code> name, birthday, genre, lastpurchase, countpurchase </code>
+Campos dos objetos objetos que irão compor o array: <code> name, birthday, genre, lastPurchaseDate, countPurchase </code>
 
 ## Desafios
 
