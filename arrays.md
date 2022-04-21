@@ -8,7 +8,7 @@
 
 ## Pré requisitos (Dependências)
 
-[Faker](https://github.com/marak/Faker.js/)
+[Faker](https://fakerjs.dev/guide/)
 
 ## Cenário
 
