@@ -26,22 +26,30 @@ Campos dos objetos objetos que irão compor o array: <code> name, birthday, genr
 
 1. Desenvolva, utilizando <code> filter </code>, uma função que, dado um caractere de entrada, retorne todos os registros de clientes cujo o nome inicia com o caractere.
 
-2. Retorne o array de clientes 
+2. Liste os nomes dos clientes no padrão: "Cliente: NOME_DO_CLIENTE"
 
-3. Desenvolva uma função que, dado o caractere de entrada, retorna apenas um número com o total de registros encontrados.
+3. Liste os nomes dos clientes no padrão: "Cliente INDEX: NOME_DO_CLIENTE".
 
-4. Desenvolva uma função que retorne apenas os nomes dos clientes.
+4. Desenvolva uma função que, dado o caractere de entrada, retorna apenas um número com o total de registros encontrados.
 
-5. Desenvolva uma função que retorne apenas o primeiro nome dos clientes.
+5. Desenvolva uma função que retorne apenas os nomes dos clientes.
 
-6. Desenvolva uma função que retorne apenas o primeiro nome dos clientes cujo os nomes começam com o caractere de entrada da função.
+6. Desenvolva uma função que retorne apenas o primeiro nome dos clientes.
 
-7. Desenvolva uma função que retorne todos os usuários que são maiores de idade.
+7. Desenvolva uma função que retorne apenas o primeiro nome dos clientes cujo os nomes começam com o caractere de entrada da função.
 
-8. Desenvolva uma função que, dado um nome de entrada, retorna se o nome está contido na lista.
+8. Desenvolva uma função que retorne todos os usuários que são maiores de idade.
 
-9. Implemente uma função que retorna o total de vendas realizadas somando as compras de todos os clientes.
+9. Desenvolva uma função que, dado um nome de entrada, retorna se o nome está contido na lista.
 
-10. Implemente uma função que retorne os dados dos clientes que não compram há mais de 1 ano.
+10. Implemente uma função que retorna o total de vendas realizadas somando as compras de todos os clientes.
 
-11. Implemente uma função que retorne os dados dos clientes que já realizaram mais de 15 compras.
+11. Implemente uma função que retorne os dados dos clientes que não compram há mais de 1 ano.
+
+12. Implemente uma função que retorne os dados dos clientes que já realizaram mais de 15 compras.
+
+
+## Exercícios diversos
+
+1. Separar o nome cliente[0] do resto do objeto
+2. Desenvolva uma função que some N valores de entrada
