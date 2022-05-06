@@ -53,5 +53,7 @@ Campos dos objetos objetos que irão compor o array: <code> name, birthday, genr
 
 ## Exercícios diversos
 
-1. Separar o nome cliente[0] do resto do objeto
-2. Desenvolva uma função que some N valores de entrada
+1. Função que receba um cliente e adicione no INICIO do array de clientes.
+2. Pegar e imprimir somente o nome e o total de compras do primeiro cliente cliente da lista
+3. Separar o nome cliente[0] do resto do objeto
+4. Desenvolva uma função que some N valores de entrada
