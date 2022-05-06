@@ -42,11 +42,13 @@ Campos dos objetos objetos que irão compor o array: <code> name, birthday, genr
 
 9. Desenvolva uma função que, dado um nome de entrada, retorna se o nome está contido na lista.
 
-10. Implemente uma função que retorna o total de vendas realizadas somando as compras de todos os clientes.
+10. Implemente uma função que retorna o total de vendas realizadas somando o total de compras de todos os clientes.
 
 11. Implemente uma função que retorne os dados dos clientes que não compram há mais de 1 ano.
 
 12. Implemente uma função que retorne os dados dos clientes que já realizaram mais de 15 compras.
+
+13. Desenvolva uma função receba como entrada um número, que representa um ano, e retorne o total de itens vendidos no ano de entrada.
 
 
 ## Exercícios diversos
